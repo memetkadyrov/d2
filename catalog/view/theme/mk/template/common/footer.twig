@@ -1,0 +1,56 @@
+<footer>
+  <div class="container">
+    <div class="footer_box">
+    <div class="footer">
+      <div class="footer_info">
+        <ul class="footer_info_menu">
+          <li class="footer_info_item"><a href="/index.php">Hauptseite</a></li>
+          <li class="footer_info_item"><a href="about-us">Über uns</a></li>
+          <li class="footer_info_item"><a href="rezensionen">Rezensionen</a></li>
+        </ul>
+      </div>
+      <div class="footer_cat">
+        <span class="footer_cat_title"><a href="#">Dekoration der Feier</a></span>
+        <ul class="footer_category">
+          <li class="category_item"><a href="#">Hochzeit</a></li>
+          <li class="category_item"><a href="#">Jubiläum</a></li>
+          <li class="category_item"><a href="#">Kinderarzt</a></li>
+        </ul>
+      </div>
+      <div class="footer_cat">
+        <span class="footer_cat_title"><a href="#">Dekoration der Feier</a></span>
+        <ul class="footer_category">
+          <li class="category_item"><a href="#">Hochzeit</a></li>
+          <li class="category_item"><a href="#">Jubiläum</a></li>
+          <li class="category_item"><a href="#">Kinderarzt</a></li>
+          <li class="category_item"><a href="#">Kinderarzt</a></li>
+          <li class="category_item"><a href="#">Kinderarzt</a></li>
+        </ul>
+      </div>
+      <div class="footer_contact">
+        <span class="footer_title">Kontakt</span>
+        <ul class="footer_menu">
+          <li class="footer_item address">{{ address }}</li>
+          <li class="footer_item open">{{ open }}</li>
+          <li class="footer_item contact"><a href="{{ contact }}"><i class=""></i></a> <span class="">{{ telephone }}</span></li>
+          <li class="footer_item inst"><a href="">Instagram</a></li>
+        </ul>
+      </div>
+    </div>  
+    <div class="copyright">©2023 Flowers by Veronika & Viktoria Henze. Grimma</div>
+    <div class="information">
+      <div class="list-unstyled">
+      {% for information in informations %}
+          <li><a href="{{ information.href }}">{{ information.title }}</a></li>
+          {% endfor %}
+      </div>
+    </div>  
+  </div>
+{% for style in styles %}
+<link href="{{ style.href }}" type="text/css" rel="{{ style.rel }}" media="{{ style.media }}" />
+{% endfor %}
+{% for script in scripts %}
+<script src="{{ script }}" type="text/javascript"></script>
+{% endfor %}
+
+</body></html>

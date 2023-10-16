@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Cinzel';
+    font-weight: 400;
+    font-style: normal;
+    src: url('../fonts/Cinzel-Regular.woff2') format('woff2'), url('../fonts/Cinzel-Regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Cinzel Decorative';
+    font-weight: 700;
+    font-style: normal;
+    src: url('../fonts/CinzelDecorative-Regular.woff2') format('woff2'), url('../fonts/CinzelDecorative-Regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Ephesis';
+    font-weight: 400;
+    font-style: normal;
+    src: url('../fonts/Ephesis-Regular.woff2') format('woff2'), url('../fonts/Ephesis-Regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Cinzel Decorative';
+    font-weight: 700;
+    font-style: normal;
+    src: url('../fonts/CinzelDecorative-Regular.woff2') format('woff2'), url('../fonts/CinzelDecorative-Regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Segoe-ui';
+    font-weight: 400;
+    font-style: normal;
+    src:  url('../fonts/SegoeUI.woff2') format('woff2'), url('../fonts/SegoeUI.woff') format('woff');
+}
+@font-face {
+    font-family: 'OpenSans-Regular';
+    src: url(../fonts/OpenSans-Regular.woff2) format(woff2), url('../fonts/OpenSans-Regular.woff') format(woff);
+}
+@font-face {
+    font-family: 'OpenSans-SemiBold';
+    src: url(../fonts/OpenSans-SemiBold.woff2) format(woff2), url('../fonts/OpenSans-SemiBold.woff') format(woff);
+}
+@font-face {
+    font-family: 'Chilanka';
+    font-weight: 400;
+    font-style: normal;
+    src: url(../fonts/Chilanka-Regular.woff2) format(woff2), url('../fonts/Chilanka-Regular.woff') format(woff);
+}

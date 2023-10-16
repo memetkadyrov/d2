@@ -1,0 +1,25 @@
+<div class="row">
+  <h3>Beliebte Blumensträuße</h3>
+  <div class="slider">
+    {% for product in products %}
+    <div>
+      <div class="slider__item">
+        <div class="image"><a href="{{ product.href }}"><img src="{{ product.thumb }}" alt="{{ product.name }}" title="{{ product.name }}" class="img-responsive" /></a>
+        </div>
+        <h4><a href="{{ product.href }}">{{ product.name }}</a></h4>
+        <p class="price">
+            {% if not product.special %}
+            {{ product.price }}
+            {% else %}
+            <span class="price-new">{{ product.special }}</span> <span class="price-old">{{ product.price }}</span>
+            {% endif %}
+            {% if product.tax %}
+            <span class="price-tax">{{ text_tax }} {{ product.tax }}</span>
+            {% endif %}
+        </p>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+
+</div>

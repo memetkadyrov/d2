@@ -1,0 +1,20 @@
+2023-10-07 9:11:02 - PHP Warning:  mysqli::query(): (HY000/1034): Index for table 'oc_currency' is corrupt; try to repair it in F:\projekt_vs\htdocs\d2\system\library\db\mysqli.php on line 25
+2023-10-07 9:11:36 - PHP Warning:  mysqli::query(): (HY000/1034): Index for table 'oc_currency' is corrupt; try to repair it in F:\projekt_vs\htdocs\d2\system\library\db\mysqli.php on line 25
+2023-10-07 9:12:17 - PHP Warning:  mysqli::query(): (HY000/1034): Index for table 'oc_currency' is corrupt; try to repair it in F:\projekt_vs\htdocs\d2\system\library\db\mysqli.php on line 25
+2023-10-07 9:12:19 - PHP Warning:  mysqli::query(): (HY000/1034): Index for table 'oc_currency' is corrupt; try to repair it in F:\projekt_vs\htdocs\d2\system\library\db\mysqli.php on line 25
+2023-10-07 9:12:22 - PHP Warning:  mysqli::query(): (HY000/1034): Index for table 'oc_currency' is corrupt; try to repair it in F:\projekt_vs\htdocs\d2\system\library\db\mysqli.php on line 25
+2023-10-07 9:12:23 - PHP Warning:  mysqli::query(): (HY000/1034): Index for table 'oc_currency' is corrupt; try to repair it in F:\projekt_vs\htdocs\d2\system\library\db\mysqli.php on line 25
+2023-10-07 9:12:23 - PHP Warning:  mysqli::query(): (HY000/1034): Index for table 'oc_currency' is corrupt; try to repair it in F:\projekt_vs\htdocs\d2\system\library\db\mysqli.php on line 25
+2023-10-07 9:13:05 - PHP Warning:  mysqli::query(): (HY000/1034): Index for table 'oc_currency' is corrupt; try to repair it in F:\projekt_vs\htdocs\d2\system\library\db\mysqli.php on line 25
+2023-10-07 9:13:06 - PHP Warning:  mysqli::query(): (HY000/1034): Index for table 'oc_currency' is corrupt; try to repair it in F:\projekt_vs\htdocs\d2\system\library\db\mysqli.php on line 25
+2023-10-07 9:13:08 - PHP Warning:  mysqli::query(): (HY000/1034): Index for table 'oc_currency' is corrupt; try to repair it in F:\projekt_vs\htdocs\d2\system\library\db\mysqli.php on line 25
+2023-10-07 9:13:25 - PHP Warning:  mysqli::query(): (HY000/1034): Index for table 'oc_currency' is corrupt; try to repair it in F:\projekt_vs\htdocs\d2\system\library\db\mysqli.php on line 25
+2023-10-07 9:14:32 - PHP Warning:  mysqli::query(): (HY000/1034): Index for table 'oc_currency' is corrupt; try to repair it in F:\projekt_vs\htdocs\d2\system\library\db\mysqli.php on line 25
+2023-10-07 9:14:33 - PHP Warning:  mysqli::query(): (HY000/1034): Index for table 'oc_currency' is corrupt; try to repair it in F:\projekt_vs\htdocs\d2\system\library\db\mysqli.php on line 25
+2023-10-07 9:14:34 - PHP Warning:  mysqli::query(): (HY000/1034): Index for table 'oc_currency' is corrupt; try to repair it in F:\projekt_vs\htdocs\d2\system\library\db\mysqli.php on line 25
+2023-10-07 9:14:35 - PHP Warning:  mysqli::query(): (HY000/1034): Index for table 'oc_currency' is corrupt; try to repair it in F:\projekt_vs\htdocs\d2\system\library\db\mysqli.php on line 25
+2023-10-07 9:15:49 - PHP Warning:  mysqli::query(): (HY000/1034): Index for table 'oc_currency' is corrupt; try to repair it in F:\projekt_vs\htdocs\d2\system\library\db\mysqli.php on line 25
+2023-10-07 9:19:21 - PHP Warning:  mysqli::query(): (HY000/1034): Index for table 'oc_currency' is corrupt; try to repair it in F:\projekt_vs\htdocs\d2\system\library\db\mysqli.php on line 25
+2023-10-07 9:21:54 - PHP Warning:  mysqli::query(): (HY000/1034): Index for table 'oc_currency' is corrupt; try to repair it in F:\projekt_vs\htdocs\d2\system\library\db\mysqli.php on line 25
+2023-10-09 14:00:03 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in F:\projekt_vs\htdocs\d2\system\library\mail\mail.php on line 83
+2023-10-09 14:00:05 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in F:\projekt_vs\htdocs\d2\system\library\mail\mail.php on line 83
